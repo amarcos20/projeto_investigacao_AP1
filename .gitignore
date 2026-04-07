@@ -1,0 +1,21 @@
+# Caches de sistema e compiladores
+__pycache__/
+*.pyc
+.cache/
+.sass-cache/
+
+# Dependências (não devem ir para o repo)
+node_modules/
+bin/
+obj/
+vendor/
+
+# Arquivos de configuração pessoal/IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Segurança: Nunca suba senhas ou chaves
+.env
+*.log
