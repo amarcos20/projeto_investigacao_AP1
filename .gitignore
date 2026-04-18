@@ -4,18 +4,5 @@ __pycache__/
 .cache/
 .sass-cache/
 
-# Dependências (não devem ir para o repo)
-node_modules/
-bin/
-obj/
-vendor/
+APRESENTACAO.md
 
-# Arquivos de configuração pessoal/IDEs
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-
-# Segurança: Nunca suba senhas ou chaves
-.env
-*.log
