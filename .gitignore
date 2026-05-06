@@ -3,9 +3,10 @@ __pycache__/
 *.pyc
 .cache/
 .sass-cache/
-fase1.ipynb
 APRESENTACAO.md
 results_1
 results_2
 results_3
+results*
 dataset_exploration.py
+fase*
