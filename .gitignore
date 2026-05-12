@@ -4,9 +4,5 @@ __pycache__/
 .cache/
 .sass-cache/
 APRESENTACAO.md
-results_1
-results_2
-results_3
-results*
 dataset_exploration.py
 fase*
