@@ -3,6 +3,4 @@ __pycache__/
 *.pyc
 .cache/
 .sass-cache/
-APRESENTACAO.md
-dataset_exploration.py
-fase*
+results_tests
